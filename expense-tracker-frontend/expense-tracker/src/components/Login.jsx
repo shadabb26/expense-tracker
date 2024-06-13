@@ -3,8 +3,8 @@ import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 
 export default function LoginForm() {
-  const uName = "shadabb26";
-  const uPass = "2626";
+  const uName = "username";
+  const uPass = "password";
 
   const [username, SetUsername] = useState("");
   const [password, SetPassword] = useState("");
