@@ -59,7 +59,7 @@ This is a simple Expense Tracker application built with a React frontend and a S
 
 ## Usage
 1. Open your web browser and go to `http://localhost:5173`.
-2. Log in using the hardcoded username and password.
+2. Log in using the hardcoded username=username and password=password
 3. Use the application to manage your expenses:
    - Add new expenses by entering the amount and description and clicking "Add Expense".
    - Edit an expense by clicking the "Edit" button next to it, modifying the details, and clicking "Update Expense".
